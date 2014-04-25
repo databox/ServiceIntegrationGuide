@@ -9,7 +9,6 @@ You can read more about Databox SDK and PushAPI on [Databox developers portal](h
 ## Examples
 
 * [Excel service integration](https://github.com/databox/excel-service-example)
-* [GoogleAnalytics service integration](https://github.com/databox/ga-service-example)
 
 ## How to Contribute
 
