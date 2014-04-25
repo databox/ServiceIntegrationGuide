@@ -21,4 +21,4 @@ You can read more about Databox SDK and PushAPI on [Databox developers portal](h
 
 * For dev updates, you can follow our Twitter account [@DataboxAPI](http://twitter.com/databoxhapi).
 * For documentation updates, follow the Databox SDK Github repos.
-* To ask question about PushAPI or SDKs usage, use our [HipChat room](https://help.databox.com).
+* To ask question about PushAPI or SDKs usage just ping us at dev@databox.com.
